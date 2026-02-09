@@ -1,5 +1,5 @@
 # API-Fetching
-API using JS,CSS, Bootstrap and HTML ..... 
+**API using JS,CSS, Bootstrap and HTML .....** 
 
 This API is built using REST architecture and supports JSON-based request and response handling. It provides endpoints for performing CRUD operations and uses token-based authentication for secure access. The API is designed to be scalable, efficient, and easy to integrate with frontend applications.
 
